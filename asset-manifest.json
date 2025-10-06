@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/q-portfolio/static/css/main.507a3381.css",
-    "main.js": "/q-portfolio/static/js/main.ba0166c8.js",
+    "main.js": "/q-portfolio/static/js/main.861dc7b8.js",
     "index.html": "/q-portfolio/index.html"
   },
   "entrypoints": [
     "static/css/main.507a3381.css",
-    "static/js/main.ba0166c8.js"
+    "static/js/main.861dc7b8.js"
   ]
 }
