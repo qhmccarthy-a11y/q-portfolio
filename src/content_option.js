@@ -1,23 +1,23 @@
-const logotext = "JOHN";
+const logotext = "QUINN";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Quinn McCarthy",
+    description: "I’m Quinn McCarthy, a student at Michigan State University studying GIS, business and data analytics",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Quinn McCarthy",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I love geography",
+        second: "I create maps",
+        third: "I use maps to analyze spatial data",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "I'm hoping to use the skills and knowledge I learn at MSU to enter the field of GIS.",
+    your_img_url: "https://pbs.twimg.com/media/GkPiV_wXcAAnuK_?format=jpg&name=4096x4096",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About Me",
+    aboutme:  "For as long as I can remember, I have always been obsessed with learning as much as I can about the world and the many cultures who inhabit it. Nowadays, I look at the world from an analytical point of view.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -136,9 +136,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "qhmccarthy@gmail.com",
+    YOUR_FONE: "(248)830-5637",
+    description: "You can use this page to contact me directly.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -148,9 +148,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com",
-    facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
 };
 export {
     meta,
