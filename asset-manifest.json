@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.36ac8a17.css",
-    "main.js": "/static/js/main.0f935c59.js",
+    "main.css": "/static/css/main.25b7b566.css",
+    "main.js": "/static/js/main.2a03f8bc.js",
     "static/media/msuss.png": "/static/media/msuss.1aec72fb30b890d06d0a.png",
     "static/media/uniquesalamanders.jpg": "/static/media/uniquesalamanders.b7d5b47a30fc81a2b8a8.jpg",
     "static/media/uspopdensity.png": "/static/media/uspopdensity.12a957618ffbbf9a9f16.png",
@@ -12,7 +12,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.36ac8a17.css",
-    "static/js/main.0f935c59.js"
+    "static/css/main.25b7b566.css",
+    "static/js/main.2a03f8bc.js"
   ]
 }
